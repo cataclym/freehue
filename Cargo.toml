@@ -9,4 +9,5 @@ edition = "2021"
 tokio = { version = "1.34.0", features = ["rt-multi-thread", "macros"] }
 warp = "0.3.6"
 rand = "0.8.5"
-rustc-serialize = "0.3.24"
+serde = { version = "1.0.193", features = ["derive"] }
+hex = "0.4.3"
