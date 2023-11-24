@@ -11,3 +11,4 @@ warp = "0.3.6"
 rand = "0.8.5"
 serde = { version = "1.0.193", features = ["derive"] }
 hex = "0.4.3"
+hsl = "0.1.1"
